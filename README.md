@@ -12,6 +12,6 @@
     <div>
   
 <div style="display: inline_block"><br>
-      <img align="center" alt="Ever.Be"  height"30px" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-        <img align="center" alt="Ever.Ps" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+      <img align="center" alt="Ever.Be"  height"30em" width"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+        <img align="center" alt="Ever.Ps" height"30em" width"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
       <div>
