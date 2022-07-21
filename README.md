@@ -3,7 +3,7 @@
 - 🔭 Me preparando pra trabalhar com front-end
 - 🌱 Estudando CSS, HTML, e JAVA SCRIPT
 - 💬 Pergunte me sobre arquitetura kkk
-- 📫 Contato:beverto87@gamil.com
+- 📫 Contato:beverto87@gmail.com
 
 <div>
   <a href="https://issuu.com/everton_szarq/docs/everton_fernando_portfolio/s/14106683">
@@ -12,6 +12,6 @@
     <div>
   
 <div style="display: inline_block"><br>
-      <img align="center" alt="Ever.Be"  height"30em" width"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-        <img align="center" alt="Ever.Ps" height"30em" width"40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+      <img height"30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+        <img height"30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
       <div>
