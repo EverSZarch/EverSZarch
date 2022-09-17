@@ -3,7 +3,7 @@
 - 🔭 Me preparando pra trabalhar com front-end
 - 🌱 Estudando CSS, HTML, e JAVA SCRIPT
 - 💬 Pergunte me sobre arquitetura kkk
-- 📫 Contato:beverto87@gmail.com
+- 📫 Contato:everton.dev.meneses@gmail.com
 
 <div>
   <a href="https://issuu.com/everton_szarq/docs/everton_fernando_portfolio/s/14106683">
